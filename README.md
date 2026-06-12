@@ -46,7 +46,7 @@ Tools:
 Email: izharsaiyed7314@gmail.com
 
 LinkedIn:
-linkedin.com/in/saiyedizhar
+[linkedin.com/in/saiyedizhar](https://www.linkedin.com/in/saiyedizhar/)
 
 GitHub:
 github.com/izharsaiyed
