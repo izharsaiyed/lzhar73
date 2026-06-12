@@ -49,4 +49,5 @@ LinkedIn:
 [linkedin.com/in/saiyedizhar](https://www.linkedin.com/in/saiyedizhar/)
 
 GitHub:
-github.com/izharsaiyed
+[github.com/izharsaiyed
+](https://github.com/izharsaiyed)
